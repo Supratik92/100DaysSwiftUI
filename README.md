@@ -52,3 +52,4 @@ https://github.com/TejasKokate/100DaysOfSwiftUI/commit/40c715fc21bd841763ae0328d
 
 #### Component-3(Day 10-15): HStack, VStack, Button, List in SwiftUI (10 points + 5 optional points)
 https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ed486a990b5ac11d8038e1ce9a5a734596f678a6 - Neel
+https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/225f0ddb52239a7c7aecdf2a9293ea8390ca40a2 - Amit Majumdar
