@@ -49,6 +49,7 @@ https://github.com/harshadkhedekar/SwiftUI/commit/f4a40b0917d9de451d1eb105b725a3
 https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/782e2faece601ec4eb1b69529985acb0623f6996 - Kaustubh Bhole
 https://github.com/karan1318/SwiftUI/commit/09d2792ea14128df24ecbbf636e62ea38d9990eb - Karan Bhasin
 https://github.com/TejasKokate/100DaysOfSwiftUI/commit/40c715fc21bd841763ae0328d86fd56c4f645c5f - Tejas Kokate
+https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/8efa0cc764aa78b3a3935f15365fa415cc17d0bf - Swapnil Salunke
 
 #### Component-3(Day 10-15): HStack, VStack, Button, List in SwiftUI (10 points + 5 optional points)
 https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ed486a990b5ac11d8038e1ce9a5a734596f678a6 - Neel
