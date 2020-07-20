@@ -65,3 +65,5 @@ https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/9b89c64d8d76d2da42b1
 https://github.com/karan1318/SwiftUI/commit/6af0db623cf95d0536db90059df1b28b1df7ffe0 - Karan Bhasin
 https://github.com/Supratik92/SwiftUIStarter/commit/fe5b3741d6367e3cab35c3a55725cd4a58a06a7e - Supratik Banerjee
 https://github.com/TejasKokate/100DaysOfSwiftUI/commit/9e0dcaa50726305335dc3b84e896778aa0dfe033 - Tejas Kokate
+https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/155bdfcb78080e112ce31472b5e3881141ecbc7b - Kaustubh Bhole
+https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/1d2bfb9cd7bac1f87ba0f3b0d4dc1a4e95beb993 - Swapnil Salunke
