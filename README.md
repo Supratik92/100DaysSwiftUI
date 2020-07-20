@@ -72,3 +72,4 @@ https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/1d2bfb9cd7bac1f87ba0f
 
 #### Component-4(Day 15-20): Segment Control, State Variables, Navigation In List (10 points + 5 optional points)
 https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/15cf68de5f6846a9db81d13e3b507806fc2f5300 - Deepak Carpenter
+https://github.com/Videh02/SwiftUI/blob/list/ListSwift/ListSwift/ContentView.swift - Videh
