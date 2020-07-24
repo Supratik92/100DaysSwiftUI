@@ -78,3 +78,4 @@ https://github.com/Videh02/SwiftUI/blob/list/ListSwift/ListSwift/ContentView.swi
 https://github.com/ChinmayDB/SwiftUI/commit/da4f823217ea9d517df5068b7fa991b22e736ac6 - Chinmay
 https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/fa943b62827f64830f0e9c084286eb26bec4d94f - Amit Majumdar
 https://github.com/NilaakashSingh/SwiftUIChallenge/commit/5a0fecd8cbcb17338616f07b3b0181e58fb81023 - Neel
+https://github.com/Supratik92/SwiftUIStarter/commit/6098584d191f279018cbb32e2cb4ba201348e127 - Supratik Banerjee
