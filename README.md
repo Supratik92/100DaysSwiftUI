@@ -14,7 +14,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 3. Commit and Push your component implementation on your own repo and raise Pull Request to this repo editing the Read.me
 
 # Format of Commit
-CommitLink - AuthorName
+ `- CommitLink - AuthorName`
 
 # 100DaysofSwiftUI
 * We will cover the setup part of project with component 1 in Week 1
