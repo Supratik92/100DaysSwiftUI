@@ -71,6 +71,7 @@ https://github.com/TejasKokate/100DaysOfSwiftUI/commit/9e0dcaa50726305335dc3b84e
 https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/155bdfcb78080e112ce31472b5e3881141ecbc7b - Kaustubh Bhole
 https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/1d2bfb9cd7bac1f87ba0f3b0d4dc1a4e95beb993 - Swapnil Salunke
 https://github.com/ChinmayDB/SwiftUI/commit/9e7ce40e0fffa0145e8700328f374a763def001f - Chinmay
+https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad
 
 #### Component-4(Day 15-20): Segment Control, State Variables, Navigation In List (10 points + 5 optional points)
 https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/15cf68de5f6846a9db81d13e3b507806fc2f5300 - Deepak Carpenter
@@ -80,3 +81,4 @@ https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/fa943b62827f64830f0e9
 https://github.com/NilaakashSingh/SwiftUIChallenge/commit/5a0fecd8cbcb17338616f07b3b0181e58fb81023 - Neel
 https://github.com/Supratik92/SwiftUIStarter/commit/6098584d191f279018cbb32e2cb4ba201348e127 - Supratik Banerjee
 https://github.com/shaharukhs/SwiftUILearning/commit/5e3aff478ab6fb063dcb4570d3706abe12e75b51 - Shahrukh Shikalgar
+https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad Khedekar
