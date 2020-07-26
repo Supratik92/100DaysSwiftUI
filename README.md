@@ -82,3 +82,5 @@ https://github.com/NilaakashSingh/SwiftUIChallenge/commit/5a0fecd8cbcb17338616f0
 https://github.com/Supratik92/SwiftUIStarter/commit/6098584d191f279018cbb32e2cb4ba201348e127 - Supratik Banerjee
 https://github.com/shaharukhs/SwiftUILearning/commit/5e3aff478ab6fb063dcb4570d3706abe12e75b51 - Shahrukh Shikalgar
 https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad Khedekar
+
+#### Component-5(Day 20-25): Login Screen with Image, Text, Textfield and Button  (10 points)
