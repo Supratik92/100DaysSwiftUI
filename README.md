@@ -21,10 +21,10 @@ CommitLink - AuthorName
 
 #### Component-1(Day 1-5): Text in SwiftUI (10 points)
 
-https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ed486a990b5ac11d8038e1ce9a5a734596f678a6 - Neel
-https://github.com/ChinmayDB/SwiftUI/commit/2707cdea5877fb9ac37335881ac884b148023a81 - Chinmay
-https://github.com/shaharukhs/SwiftUILearning/commit/564510d9794780e30a9718a7a49e2f77cf0aa708 - Shahrukh Shikalgar
-https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/e63002e14ae0093263c77da60609e55a581afdaf - Deepak Carpenter
+-https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ed486a990b5ac11d8038e1ce9a5a734596f678a6 - Neel
+-https://github.com/ChinmayDB/SwiftUI/commit/2707cdea5877fb9ac37335881ac884b148023a81 - Chinmay
+-https://github.com/shaharukhs/SwiftUILearning/commit/564510d9794780e30a9718a7a49e2f77cf0aa708 - Shahrukh Shikalgar
+-https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/e63002e14ae0093263c77da60609e55a581afdaf - Deepak Carpenter
 https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/7008b89fdffe0d7b146e6f7e3f59b42c4947f12b - Amit Majumdar
 https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/708e141012780e4539062db16dedffb583365885 - Swapnil Salunke
 https://github.com/TejasKokate/100DaysOfSwiftUI/commit/17d512c84a6cc2ae3625f6bbe2c459ce9506b1f9 - Tejas Kokate
