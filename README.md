@@ -88,3 +88,4 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 #### Component-5(Day 20-25): Login Screen with Image, Text, Textfield and Button  (10 points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/63a6cd765f1eb992a97e844d790e5dc28360a0a1 - Neel
 - https://github.com/KhamakhaDeveloper/100DaysOfSwiftUI/commit/5c525734d31f43e58b1fb581b15fb11418311493 - Deepak Carpenter
+- https://github.com/Supratik92/SwiftUIStarter/commit/7914bb63bc964e690db441d6bf5c0a3fc1b4550b - Supratik Banerjee
