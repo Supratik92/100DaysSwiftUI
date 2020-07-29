@@ -72,6 +72,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/1d2bfb9cd7bac1f87ba0f3b0d4dc1a4e95beb993 - Swapnil Salunke
 - https://github.com/ChinmayDB/SwiftUI/commit/9e7ce40e0fffa0145e8700328f374a763def001f - Chinmay
 - https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad
+- https://github.com/rasika-punde/100DaysOfSwiftUI/commit/39c123e0219951ab7e4b1df968334f63a8aa3e8c - Rasika Punde
 
 #### Component-4(Day 15-20): Segment Control, State Variables, Navigation In List (10 points + 5 optional points)
 - https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/15cf68de5f6846a9db81d13e3b507806fc2f5300 - Deepak Carpenter
