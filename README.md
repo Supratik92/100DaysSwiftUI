@@ -95,3 +95,4 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/Videh02/SwiftUI/blob/login/Login/Login/ContentView.swift - Videh Khanna
 - https://github.com/Supratik92/SwiftUIStarter/commit/7914bb63bc964e690db441d6bf5c0a3fc1b4550b - Supratik Banerjee
 - https://github.com/shaharukhs/SwiftUILearning/commit/42ac513716c50c7c63d4818b7e897e77f8a93da9 - Shahrukh Shikalgar
+- https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/d9cc5502848513fd5fad1fae97f5d8ebbba91b61 - Amit Majumdar
