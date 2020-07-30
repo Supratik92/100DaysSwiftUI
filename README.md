@@ -40,6 +40,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/dhruvgovila/100DaysOfSwiftUI/commit/2cd6c11cedd5ade3855321150f8b2a2d67b2efdb - Dhruv Govila
 - https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/782e2faece601ec4eb1b69529985acb0623f6996 - Kaustubh Bhole
 - https://github.com/nehap27/100DaysOfSwiftUI/commit/bd8d0fd8de4fe5b209cf368600ea189bf89dbf7b - Neha Pujary
+- https://github.com/meet0226/SwiftUI_JourneyOf100Days/commit/1dd93c991cbcdb9a76f016d9786853f37a7aa043 - Amit Kumar
 
 #### Component-2(Day 5-10): Image in SwiftUI (10 points)
 - https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/e2715c2da5c4023c164e48c58a128f0a0c5cfafc - Amit Majumdar
@@ -57,6 +58,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/8efa0cc764aa78b3a3935f15365fa415cc17d0bf - Swapnil Salunke
 - https://github.com/pkGit007/100DaysOfSwiftUiDemo/commit/cd67edb0d3b1d5f0ed6c5ce23ba61c5127dbc6c1 - Pritha
 - https://github.com/PratikDeshmukh24/SwiftUI_Starter/commit/ca8b3c9f08685f262c62689cd4da541cfd6fee7a - Pratik Deshmukh
+- https://github.com/meet0226/SwiftUI_JourneyOf100Days/commit/1dd93c991cbcdb9a76f016d9786853f37a7aa043 - Amit Kumar
 
 #### Component-3(Day 10-15): HStack, VStack, Button, List in SwiftUI (10 points + 5 optional points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ed486a990b5ac11d8038e1ce9a5a734596f678a6 - Neel
@@ -73,6 +75,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/ChinmayDB/SwiftUI/commit/9e7ce40e0fffa0145e8700328f374a763def001f - Chinmay
 - https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad
 - https://github.com/rasika-punde/100DaysOfSwiftUI/commit/39c123e0219951ab7e4b1df968334f63a8aa3e8c - Rasika Punde
+- https://github.com/meet0226/SwiftUI_JourneyOf100Days/commit/1dd93c991cbcdb9a76f016d9786853f37a7aa043 - Amit Kumar
 
 #### Component-4(Day 15-20): Segment Control, State Variables, Navigation In List (10 points + 5 optional points)
 - https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/15cf68de5f6846a9db81d13e3b507806fc2f5300 - Deepak Carpenter
