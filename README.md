@@ -104,3 +104,4 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 #### Component-6(Day 25-30): Complex UI  (10 points)
 - https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/a0c7486472407d55cb8844afa9fad28b467a717b - Amit Majumdar
 - https://github.com/shaharukhs/SwiftUILearning/commit/cfcb7b33fb22769e99c796370dc661c61a5c16e4 - Shahrukh Shikalgar
+- https://github.com/KhamakhaDeveloper/100DaysOfSwiftUI/commit/abfc831502c544f6bae3ae77a198200f83f2927c - Deepak Carpenter
