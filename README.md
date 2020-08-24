@@ -107,3 +107,8 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/shaharukhs/SwiftUILearning/commit/cfcb7b33fb22769e99c796370dc661c61a5c16e4 - Shahrukh Shikalgar
 - https://github.com/KhamakhaDeveloper/100DaysOfSwiftUI/commit/abfc831502c544f6bae3ae77a198200f83f2927c - Deepak Carpenter
 - https://github.com/Supratik92/SwiftUIStarter/commit/9ce7b3bd12a87c05c9812f1b0f1bd317b07af99e - Supratik Banerjee
+- https://github.com/NilaakashSingh/SwiftUIChallenge/commit/17b941e30f443b87cf69c4ea2b726f1d0ce0b6fe - Nilaakash Singh
+
+#### Component-7(Day 30-35): Populating data in list with combine  (10 points)
+- https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ad6f5952f7c65e1b51da22d0f3ec8a5fc26b53a4 - Nilaakash Singh
+
