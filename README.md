@@ -114,6 +114,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 #### Component-7(Day 30-35): Populating data in list with combine  (10 points)
 - https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/2e9cab35e9ed4ecc70a009f699c4dca15edd83a2 - Kaustubh Bhole
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ad6f5952f7c65e1b51da22d0f3ec8a5fc26b53a4 - Neel
+- https://github.com/shaharukhs/SwiftUILearning/commit/e74466dd4bc77e5c9f05142d8878521863448555 - Shahrukh Shikalgar
 
 #### Component-8(Day 35-40): Forms, Picker and date picker (10 points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/170004475cb1b4bb2ce0cf14512a3e59c4eddd2a - Neel
