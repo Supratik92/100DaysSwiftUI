@@ -88,6 +88,8 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/harshadkhedekar/SwiftUI/commit/4564627266fbce04fd7321a6d36eb0186e6f41ea - Harshad Khedekar
 - https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/142fbca39464a6701ffe0f22e2869666a4620b2c - Swapnil Salunke
 - https://github.com/karan1318/SwiftUI/commit/58fdfe6a7534a4843b0a59c8126940d11429a792 - Karan Bhasin
+- https://github.com/rasika-punde/100DaysOfSwiftUI/commit/ad1119c47e159f44f5e539e68e24cc086cf72a11 - Rasika Punde
+- https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/1ca09bb7716bb5a2430761e8d215fa548b51f0d2 - Kaustubh Bhole
 
 #### Component-5(Day 20-25): Login Screen with Image, Text, Textfield and Button  (10 points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/63a6cd765f1eb992a97e844d790e5dc28360a0a1 - Neel
@@ -95,3 +97,27 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/Videh02/SwiftUI/blob/login/Login/Login/ContentView.swift - Videh Khanna
 - https://github.com/Supratik92/SwiftUIStarter/commit/7914bb63bc964e690db441d6bf5c0a3fc1b4550b - Supratik Banerjee
 - https://github.com/shaharukhs/SwiftUILearning/commit/42ac513716c50c7c63d4818b7e897e77f8a93da9 - Shahrukh Shikalgar
+- https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/d9cc5502848513fd5fad1fae97f5d8ebbba91b61 - Amit Majumdar
+- https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/1ca09bb7716bb5a2430761e8d215fa548b51f0d2 - Kaustubh Bhole
+- https://github.com/rasika-punde/100DaysOfSwiftUI/commit/3ae407e6faf53d4137056e3f8ff129f0509744f2 - Rasika Punde
+- https://github.com/harshadkhedekar/SwiftUI/commit/72b828ab7cb23a328684223322e5982837d94892 - Harshad Khedekar
+- https://github.com/karan1318/SwiftUI/commit/f8748b460d381c59329e4ba85c7c58da543aa434 - Karan Bhasin
+
+#### Component-6(Day 25-30): Complex UI  (10 points)
+- https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/a0c7486472407d55cb8844afa9fad28b467a717b - Amit Majumdar
+- https://github.com/shaharukhs/SwiftUILearning/commit/cfcb7b33fb22769e99c796370dc661c61a5c16e4 - Shahrukh Shikalgar
+- https://github.com/KhamakhaDeveloper/100DaysOfSwiftUI/commit/abfc831502c544f6bae3ae77a198200f83f2927c - Deepak Carpenter
+- https://github.com/Supratik92/SwiftUIStarter/commit/9ce7b3bd12a87c05c9812f1b0f1bd317b07af99e - Supratik Banerjee
+- https://github.com/NilaakashSingh/SwiftUIChallenge/commit/17b941e30f443b87cf69c4ea2b726f1d0ce0b6fe - Neel
+- https://github.com/karan1318/SwiftUI/commit/a57b63f0fd809454868c4e194c59e16d03883c87 - Karan Bhasin
+
+#### Component-7(Day 30-35): Populating data in list with combine  (10 points)
+- https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/2e9cab35e9ed4ecc70a009f699c4dca15edd83a2 - Kaustubh Bhole
+- https://github.com/NilaakashSingh/SwiftUIChallenge/commit/ad6f5952f7c65e1b51da22d0f3ec8a5fc26b53a4 - Neel
+- https://github.com/shaharukhs/SwiftUILearning/commit/e74466dd4bc77e5c9f05142d8878521863448555 - Shahrukh Shikalgar
+- https://github.com/Supratik92/SwiftUIStarter/commit/2a84ca88e6201e2a14ecacd2706b7b88ecf7fb0e - Supratik Banerjee
+
+#### Component-8(Day 35-40): Forms, Picker and date picker (10 points)
+- https://github.com/NilaakashSingh/SwiftUIChallenge/commit/170004475cb1b4bb2ce0cf14512a3e59c4eddd2a - Neel
+- https://github.com/Supratik92/SwiftUIStarter/commit/2a84ca88e6201e2a14ecacd2706b7b88ecf7fb0e - Supratik Banerjee
+- https://github.com/shaharukhs/SwiftUILearning/commit/d99d9718dfb02c09c35d044e49e598de840db263 - Shahrukh Shikalgar
