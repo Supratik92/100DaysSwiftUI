@@ -120,3 +120,4 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 #### Component-8(Day 35-40): Forms, Picker and date picker (10 points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/170004475cb1b4bb2ce0cf14512a3e59c4eddd2a - Neel
 - https://github.com/Supratik92/SwiftUIStarter/commit/2a84ca88e6201e2a14ecacd2706b7b88ecf7fb0e - Supratik Banerjee
+- https://github.com/shaharukhs/SwiftUILearning/commit/d99d9718dfb02c09c35d044e49e598de840db263 - Shahrukh Shikalgar
