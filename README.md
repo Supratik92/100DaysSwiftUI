@@ -90,6 +90,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/karan1318/SwiftUI/commit/58fdfe6a7534a4843b0a59c8126940d11429a792 - Karan Bhasin
 - https://github.com/rasika-punde/100DaysOfSwiftUI/commit/ad1119c47e159f44f5e539e68e24cc086cf72a11 - Rasika Punde
 - https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/1ca09bb7716bb5a2430761e8d215fa548b51f0d2 - Kaustubh Bhole
+- https://github.com/meet0226/SwiftUI_JourneyOf100Days/commit/5d2e85fef6170443ee661983624bcb2bb00aed79 - Amit Kumar
 
 #### Component-5(Day 20-25): Login Screen with Image, Text, Textfield and Button  (10 points)
 - https://github.com/NilaakashSingh/SwiftUIChallenge/commit/63a6cd765f1eb992a97e844d790e5dc28360a0a1 - Neel
@@ -102,6 +103,7 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 - https://github.com/rasika-punde/100DaysOfSwiftUI/commit/3ae407e6faf53d4137056e3f8ff129f0509744f2 - Rasika Punde
 - https://github.com/harshadkhedekar/SwiftUI/commit/72b828ab7cb23a328684223322e5982837d94892 - Harshad Khedekar
 - https://github.com/karan1318/SwiftUI/commit/f8748b460d381c59329e4ba85c7c58da543aa434 - Karan Bhasin
+- https://github.com/meet0226/SwiftUI_JourneyOf100Days/commit/232b9e60bae21bf2da5bbb2f092a30bfae127b6b - Amit Kumar
 
 #### Component-6(Day 25-30): Complex UI  (10 points)
 - https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/a0c7486472407d55cb8844afa9fad28b467a717b - Amit Majumdar
