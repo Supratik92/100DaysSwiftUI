@@ -127,3 +127,4 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 
 #### Component-9(Day 40-45): Geometry Reader, Alerts and Storage Types (10 points)
 - https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/f366431a4927080fe1c2670b068c1223d60d6026 - Amit Maumdar
+- https://github.com/Supratik92/SwiftUIStarter/commit/45e8806ed5acff4f92bdab2f7bede9c534723cc4 - Supratik Banerjee
